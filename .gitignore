@@ -1,0 +1,21 @@
+# Fichiers et dossiers PhpStorm
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+.history/
+
+# Cursor
+.cursor/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
