@@ -10,7 +10,7 @@
 ## Modalités pédagogiques
 
 ### Méthode d'enseignement
-- 10% théorie / 80% pratique
+- 10 % théorie / 80 % pratique
 - Live coding pour chaque algorithme
 - Exercices progressifs
 
